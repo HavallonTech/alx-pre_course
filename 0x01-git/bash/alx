@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #!/bin/bashn echo ALX School is so cool
+=======
+#!/bin/bashn echo "ALX SCHOOL"
+>>>>>>> origin/update_script
 =======
 #!/bin/bashn echo "ALX SCHOOL"
 >>>>>>> origin/update_script
